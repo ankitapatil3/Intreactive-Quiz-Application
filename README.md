@@ -41,3 +41,5 @@ This project helped me enhance my frontend skills and gain confidence in buildin
  Output:
 
  https://github.com/user-attachments/assets/e3c5fcc6-f6aa-4a8f-acee-9ac17d3b2853
+
+ <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/e3c5fcc6-f6aa-4a8f-acee-9ac17d3b2853" />
